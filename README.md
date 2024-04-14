@@ -29,9 +29,9 @@ Top5-Acc.    | 87.29%
 
 ## Accuracy and Loss Curve
 
-<p align="center"> <img src="https://github.com/reshalfahsi/image-classification-vit/blob/master/assets/acc_curve.png" alt="acc_curve" > <br /> Accuracy curves of ViT on the CIFAR-100 test set. </p>
+<p align="center"> <img src="https://github.com/reshalfahsi/image-classification-vit/blob/master/assets/acc_curve.png" alt="acc_curve" > <br /> Accuracy curves of ViT on the CIFAR-100 train and validation sets. </p>
 
-<p align="center"> <img src="https://github.com/reshalfahsi/image-classification-vit/blob/master/assets/loss_curve.png" alt="loss_curve" > <br /> Loss curves of ViT on the CIFAR-100 test set. </p>
+<p align="center"> <img src="https://github.com/reshalfahsi/image-classification-vit/blob/master/assets/loss_curve.png" alt="loss_curve" > <br /> Loss curves of ViT on the CIFAR-100 train and validation sets. </p>
 
 
 ## Qualitative Result
